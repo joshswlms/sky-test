@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "sky-test": {
+            "name": "Sky-Test",
+            "repo": "https://github.com/joshswlms/sky-test/tree/master",
+            "zip": "http://www.thewlms.com/theme/sky-test.zip",
+            "summary": "Testing this shit",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/joshswlms/sky-test/master/preview.jpg"
+        }
+    }
+}
